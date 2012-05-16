@@ -85,10 +85,5 @@ capybara-*html
 .sass-cache
 .sass-cache/*
 
-#rvm
-.rvmrc
-.rvmrc.*
-
 # vendor/extensions dummy applications.
 vendor/extensions/**/spec/dummy
-
