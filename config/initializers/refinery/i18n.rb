@@ -7,7 +7,7 @@ Refinery::I18n.configure do |config|
 
   # config.current_locale = :en
 
-  # config.default_frontend_locale = :en
+  config.default_frontend_locale = :'pt-BR'
 
   # config.frontend_locales = [:en]
 
